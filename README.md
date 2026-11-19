@@ -105,7 +105,27 @@ No tiene rojo ni verde: `puerto_fcm.dart` es el único archivo que habla con fir
 <img width="1198" height="602" alt="image" src="https://github.com/user-attachments/assets/afa8b029-713f-4f12-a997-956f51d77b1f" />
 
 
-## Probar la app sin Firebase (modo demo)
+## Probar la app PANTALLAS
+<img width="739" height="1600" alt="image" src="https://github.com/user-attachments/assets/fb308763-8328-4194-b7f9-47da37629afe" />
+<img width="739" height="1600" alt="image" src="https://github.com/user-attachments/assets/919372a2-74f3-484a-93da-6755e2e65fe5" />
+<img width="739" height="1600" alt="image" src="https://github.com/user-attachments/assets/bf0d835f-52fd-43f8-b70b-c340bc7787a6" />
+<img width="739" height="1600" alt="image" src="https://github.com/user-attachments/assets/a8cef3a0-3a98-4c2d-837e-7ec6618f1d89" />
+<img width="739" height="1600" alt="image" src="https://github.com/user-attachments/assets/cf7fe843-e4ca-4435-b628-3e9764b22bd5" />
+<img width="739" height="1600" alt="image" src="https://github.com/user-attachments/assets/1e1185a5-3962-4f12-8485-fc7ab0fde2ee" />
+<img width="739" height="1600" alt="image" src="https://github.com/user-attachments/assets/0a50c8bc-8882-45ca-b65e-288ae58db655" />
+<img width="739" height="1600" alt="image" src="https://github.com/user-attachments/assets/b20afef7-0e4c-4827-95f0-3deb5e221430" />
+<img width="739" height="1600" alt="image" src="https://github.com/user-attachments/assets/d5e8f548-027a-4284-be0d-c867457f6f29" />
+<img width="739" height="1600" alt="image" src="https://github.com/user-attachments/assets/51d53bae-05a3-4453-9b0d-530ea534e124" />
+<img width="739" height="1600" alt="image" src="https://github.com/user-attachments/assets/e3d26095-9c1c-4c31-9bf7-ed818122ab11" />
+<img width="739" height="1600" alt="image" src="https://github.com/user-attachments/assets/3a1e00a6-7c23-4cc7-90dd-1c79e40b6258" />
+<img width="739" height="1600" alt="image" src="https://github.com/user-attachments/assets/bdb447b2-2e88-4836-828c-1ea7c197750c" />
+<img width="739" height="1600" alt="image" src="https://github.com/user-attachments/assets/ebed62db-234d-4676-998a-1a41d4fa4846" />
+<img width="739" height="1600" alt="image" src="https://github.com/user-attachments/assets/90f32971-ec7c-4be6-82b5-ef65d7a6c6de" />
+<img width="739" height="1600" alt="image" src="https://github.com/user-attachments/assets/6dfeb6e8-3708-462d-bb2b-154cdd5b2c35" />
+<img width="739" height="1600" alt="image" src="https://github.com/user-attachments/assets/aef1b37c-e7e2-421e-a5f3-36fe2123b72a" />
+<img width="739" height="1600" alt="image" src="https://github.com/user-attachments/assets/227f1029-d7c2-4473-ac5a-50c2a4f4b0b6" />
+
+
 
 
 
